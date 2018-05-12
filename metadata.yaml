@@ -1,0 +1,39 @@
+_repo: BrandRuno-5-ss--n-yt-ksess-_45499
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Leino, Kasimir
+    birthdate: 1866
+    deathdate: 1919
+    gutenberg_agent_id: '6366'
+    url: http://www.gutenberg.org/2009/agents/6366
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
+description: ''
+gutenberg_issued: '2014-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45499'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Verse drama'
+- !lcsh 'Priests -- Drama'
+- !lcsh 'Tragedies'
+- !lcc 'PT'
+- !lcsh 'Norwegian drama -- Translations into Finnish'
+title: 'Brand
+
+  Runo 5:ssä näytöksessä'
+url: http://www.gutenberg.org/ebooks/45499
